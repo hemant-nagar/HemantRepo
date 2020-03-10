@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World Update by hemant nagar second commit !" );
+        System.out.println( "I want to learn Git !" );
     }
 }
