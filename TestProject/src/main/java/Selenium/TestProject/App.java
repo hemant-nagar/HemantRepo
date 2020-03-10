@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Commit by First User in java file" );
+        System.out.println( "Commit by First User" );
     }
 }
